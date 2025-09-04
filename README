@@ -1,0 +1,7 @@
+Bauteile:
+  Arduino Mega
+  2 8x8 LED Matrix -> je 5 Jumper Kabel
+  1 4-Digit 7-Segment Led Display  12 Jumper Kabel
+  1 Passive Buzzer    2 Kabel
+  4 1k Ohm Widerstände  je 1 kabel
+  
